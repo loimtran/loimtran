@@ -134,14 +134,14 @@
       </div>
     </div>
   </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <h1 align="center">
    𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐦𝐲 𝐩𝐚𝐠𝐞!
     <img
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png"
       alt="Heart Hands" width="25" height="25" />
   </h1>
-
+<br/><br/><br/>
 </body>
 
 </html>
