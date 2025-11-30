@@ -134,57 +134,13 @@
       </div>
     </div>
   </div>
-
-  <br />
-    <h1 align="center">𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬</h1>
-<br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/loimtran/Vue-UI-Library-ShadCN" title="Vue-UI-Library-ShadCN">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Vue-UI-Library-ShadCN&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Vue-UI-Library-ShadCN=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Vue-UI-Library-ShadCN&theme=graywhite&border_radius=10.0" alt="loimtran's repository stats - Vue-UI-Library-ShadCN" />
-    </picture>
-  </a>
-
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/loimtran/Trading-Dashboard-Next" title="Trading-Dashboard-Next">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Trading-Dashboard-Next&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Trading-Dashboard-Next&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&Trading-Dashboard-Next&theme=graywhite&border_radius=10" alt="loimtran's repository stats - Trading-Dashboard-Next" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="https://github.com/loimtran/Next-radio-player" title="Next-radio-player">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Next-radio-player&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Next-radio-player&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Next-radio-player&theme=graywhite&border_radius=10" alt="loimtran's repository stats - MERN Admin Dashboard" />
-    </picture>
-  </a>
-
-  <!-- repo 4 -->
-  <a align="right" href="https://github.com/loimtran/Event-Decor" title="Event-Decor">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Event-Decor&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Event-Decor&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=loimtran&repo=Event-Decor&theme=graywhite&border_radius=10" alt="loimtran's repository stats - Event-Decor SaaS Landing Page" />
-    </picture>
-  </a>
-</div>
 <br/><br/><br/><br/><br/><br/>
 <h1 align="center">
    𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠 𝐦𝐲 𝐩𝐚𝐠𝐞!
     <img
       src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png"
       alt="Heart Hands" width="25" height="25" />
-  </h>
+  </h1>
 
 </body>
 
